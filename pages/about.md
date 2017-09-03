@@ -64,9 +64,9 @@ The directors are elected annually by a vote of the membership.
 Here is a list of our current Board of Directors:
 
 * President - Gregory Miller
-* Vice President - Roxy Dehart
-* Secretary - Richard Gowen
-* Floating - Shawn Porter
+* Vice President - Brian Moses
+* Secretary - Christina Kearney
+* Floating - Pat Regan
 * Floating - Tommy Falgout
 
 ### Officers
@@ -75,11 +75,11 @@ We currently have six officer positions including Treasurer, Chief Technical Off
 The officers are elected annually by a vote of the membership.
 Here is a list of our current Officers:
 
-* Treasurer - Tinker
+* Treasurer - Richard Gowen
 * Chief Technical Officer - WhiskeyNeon
-* Education Coordinator - Pat Regan
-* Fundraising Coordinator - Christina Kearney
-* Facilities Coordinator - Neil Smith
+* Education Coordinator - Tanner Hennis
+* Fundraising Coordinator - Shawn Porter
+* Facilities Coordinator - TheFordness
 * Chief Legal Officer - Vacant
 
 
